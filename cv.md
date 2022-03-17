@@ -1,3 +1,5 @@
+                    ![](/rsschool-cv/image/oleg.jpg)
+                            
                             #Oleg Shepelev#
 
                             ###Contacts###
