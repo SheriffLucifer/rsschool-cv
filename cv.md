@@ -22,3 +22,14 @@
                             ###Education###
         *Attractor School*
         *Udemy*
+                                
+                            ###Example Code###
+
+```
+function multiply(a, b){
+  let sum = a * b;
+  return sum;
+}
+
+multiply(3, 8);
+```
