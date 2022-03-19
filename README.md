@@ -1,1 +1,1 @@
-https://SheriffLucifer.github.io/rsschool-cv/cv
+https://sherifflucifer.github.io/rsschool-cv/cv
